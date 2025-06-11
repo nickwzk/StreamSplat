@@ -18,3 +18,12 @@ https://github.com/user-attachments/assets/466a222d-f3b5-447a-84c0-a47538071c05
 - [ ] Release inference code and pretrained checkpoint
 - [ ] Release training code
 
+## Citation
+```bibtex
+@article{wu2025streamsplat,
+    title={StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams}, 
+    author={Zike Wu and Qi Yan and Xuanyu Yi and Lele Wang and Renjie Liao},
+    journal={arXiv preprint arXiv:2506.08862},
+    year={2025},
+}
+```
