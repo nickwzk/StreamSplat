@@ -1,4 +1,6 @@
 # StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams
+ 
+<a href="https://arxiv.org/abs/2506.08862"><img src="https://img.shields.io/badge/arXiv-2506.08862-b31b1b" alt="arXiv"></a>
 
 <div  align="center">    
 <img src="./assets/teaser.png" alt="results" width="800">
